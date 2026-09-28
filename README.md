@@ -1,2 +1,2 @@
 # TPS3371
-This repo contains capstone project for MIS3371 TPS course.
+This repo is for Chelsea Yung in class 10129.
